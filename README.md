@@ -25,7 +25,7 @@ Tableau
 - food_preparation_time: Time (in minutes) taken by the restaurant to prepare the food. This is calculated by taking the difference between the timestamps of the restaurant's order confirmation and the delivery person's pick-up confirmation.
 - delivery_time: Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the difference between the timestamps of the delivery person's pick-up confirmation and drop-off information
 ### Result / Findings
-Here is a link to the Tableau Dashboard created for this course; [https://public.tableau.com/views/NYCRESTAURANTDATA/FoodOrderDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link]
+Here is a link to the Tableau Dashboard created for this course; [https://public.tableau.com/views/RESTAURANTDATAANALYSIS/FoodOrderDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link]
 - Customers order more during the weekend
 - American, Japanese and Italian Cuisines Have the highest order rate
 - Shake Shack is the most popular restaurant in New York
