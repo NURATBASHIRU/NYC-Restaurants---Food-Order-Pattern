@@ -7,6 +7,9 @@ This visualization represents real restaurants in the United States. An Explorat
 - Cost Of Order By Cuisine: Using a horizontal barchart, I created a visualization that shows comparison between the most expensive cuisine and the least expensive cuisine in this category.
 - Lastly, Rating For Cuisine Types: This shows the relationship / pattern between each rating for each cuisine.
 
+  ![Restaurant_Data_Analysis_Dashboard](https://github.com/NURATBASHIRU/NYC-Restaurants---Food-Order-Pattern/assets/167202411/e04ff368-a878-4bc6-bf1f-e2af3520cc2c)
+
+
 ### Data Source
 Kaggle [https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset]
 
