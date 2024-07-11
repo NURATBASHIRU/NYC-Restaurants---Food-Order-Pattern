@@ -16,14 +16,14 @@ Excel Workbook
 Tableau
 
 ### Data Structure
-- order_id: Unique ID of the order
-- customer_id: ID of the customer who ordered the food
-- restaurant_name: Name of the restaurant
-- cuisine_type: Cuisine ordered by the customer
-- cost: Cost of the order
-- day_of_the_week: Indicates whether the order is placed on a weekday or weekend (The weekday is from Monday to Friday and the weekend is Saturday and Sunday)
+- order_id: Unique ID of the order made
+- customer_id: ID of customers who ordered food
+- restaurant_name: Namess of restaurants involved in this analysis
+- cuisine_type: Cuisine ordered by customers
+- cost: Cost of food ordered
+- day_of_the_week: Indicates whether the order was placed on a weekday or weekend (The weekday means  Monday to Friday while the weekend means Saturday and Sunday)
 - rating: Rating given by the customer out of 5
-- food_preparation_time: Time (in minutes) taken by the restaurant to prepare the food. This is calculated by taking the difference between the timestamps of the restaurant's order confirmation and the delivery person's pick-up confirmation.
+- food_preparation_time: Time (in minutes) taken by the restaurant to prepare the food. This is calculated by calculatking the difference between the timestamps of the restaurant's order confirmation and the delivery person's pick-up confirmation.
 - delivery_time: Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the difference between the timestamps of the delivery person's pick-up confirmation and drop-off information
 ### Result / Findings
 Here is a link to the Tableau Dashboard created for this course; [Tableau](https://public.tableau.com/views/RESTAURANTDATAANALYSIS/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
